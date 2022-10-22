@@ -1,5 +1,4 @@
-/* C++ program to solve N Queen Problem using
-backtracking */
+/* fuck u ubaid */
 
 #include <bits/stdc++.h>
 #define N 4
